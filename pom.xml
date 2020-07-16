@@ -3,4 +3,16 @@
   <groupId>de.jj22</groupId>
   <artifactId>uni.pvs.blatt11</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>15-ea+7</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
+            <version>15-ea+7</version>
+        </dependency>
+    </dependencies>
 </project>
