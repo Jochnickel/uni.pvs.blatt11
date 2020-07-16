@@ -1,4 +1,4 @@
-package de.jj22.uni.pvs.blatt11;
+package de.jj22.uni.pvs.blatt11.board;
 
 import java.util.Observable;
 import java.util.Observer;

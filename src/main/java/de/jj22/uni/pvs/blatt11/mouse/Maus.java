@@ -1,4 +1,4 @@
-package de.jj22.uni.pvs.blatt11;
+package de.jj22.uni.pvs.blatt11.mouse;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
