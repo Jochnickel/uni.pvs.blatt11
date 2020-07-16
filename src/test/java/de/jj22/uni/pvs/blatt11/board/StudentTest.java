@@ -2,9 +2,6 @@ package de.jj22.uni.pvs.blatt11.board;
 
 import org.junit.Test;
 
-import de.jj22.uni.pvs.blatt11.board.Board;
-import de.jj22.uni.pvs.blatt11.board.Student;
-
 public class StudentTest {
 
 	@SuppressWarnings("deprecation")
